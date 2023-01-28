@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Player
+  - Wordl Confiner
+  - Enemy
+  - interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: World Confiner
+    uniqueID: 551194247
+    locked: 0
+  - name: Background
+    uniqueID: 4042959033
+    locked: 0
+  - name: Climbing
+    uniqueID: 4098877123
+    locked: 0
+  - name: Enemy
+    uniqueID: 216252685
+    locked: 0
+  - name: player
+    uniqueID: 2462867181
+    locked: 0
+  - name: Bomb
+    uniqueID: 1239600463
+    locked: 0
+  - name: Interactable
+    uniqueID: 4022152219
+    locked: 0
+  - name: Foreground
+    uniqueID: 3982554055
+    locked: 0
